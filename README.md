@@ -27,4 +27,4 @@ docker-compose logs bucketloader
 ![](./readme_images/error.png)
 
 
-4. Видим ошибку, что хранилище переполнилось# docker_minio_uploader
+4. Видим ошибку, что хранилище переполнилось
